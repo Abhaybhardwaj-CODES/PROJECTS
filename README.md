@@ -1,0 +1,1 @@
+📚 A Python-based Library Management System designed to manage books, members, book issuing and returning, and library records through a simple and efficient interface. Built to practice Python fundamentals, functions, dictionaries, file handling, and OOP concepts.
